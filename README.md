@@ -34,29 +34,61 @@
 - There were significantly more protests in Europe than in Asia or South America.
 - There were also differences in the number of protests per country, with Germany having the most protests in Europe, China having the most in Asia, and Brazil having the most in South America.
 
+<img width="482" alt="Screen Shot 2020-10-28 at 4 03 54 PM" src="https://user-images.githubusercontent.com/69160361/97501660-46674200-1937-11eb-9335-988a552e9e12.png">
+
+<img width="938" alt="Screen Shot 2020-10-28 at 4 04 07 PM" src="https://user-images.githubusercontent.com/69160361/97501673-4f581380-1937-11eb-9e0e-23d2594b5ae5.png">
+
+<img width="932" alt="Screen Shot 2020-10-28 at 4 04 12 PM" src="https://user-images.githubusercontent.com/69160361/97501701-5b43d580-1937-11eb-9fb4-dd6c4ff4d455.png">
+
+<img width="930" alt="Screen Shot 2020-10-28 at 4 04 21 PM" src="https://user-images.githubusercontent.com/69160361/97501723-6434a700-1937-11eb-937d-100f3e06e939.png">
+
+
 #### Protest Size
 - Most of Asias protests were smaller
 - For all three regions, a general observation is that most protests were either smaller (50-200) or very large
 
+<img width="463" alt="Screen Shot 2020-10-28 at 4 05 52 PM" src="https://user-images.githubusercontent.com/69160361/97501783-829aa280-1937-11eb-91b6-df3d4028a82e.png">
+
+
 #### Protest Type
 - For each of the three regions, the most common reason for protests was political behavior.
+
+<img width="435" alt="Screen Shot 2020-10-28 at 4 05 59 PM" src="https://user-images.githubusercontent.com/69160361/97501806-90e8be80-1937-11eb-83de-99a2b540d010.png">
+
+<img width="424" alt="Screen Shot 2020-10-28 at 4 06 06 PM" src="https://user-images.githubusercontent.com/69160361/97501837-9ba35380-1937-11eb-9fd5-224317426179.png">
+
+<img width="440" alt="Screen Shot 2020-10-28 at 4 06 12 PM" src="https://user-images.githubusercontent.com/69160361/97501858-a3fb8e80-1937-11eb-95d0-20054ffac3ec.png">
+
 
 ## Happiness and Freedom Scores Analyses
 
 #### Total Freedom Rate by Region
 An ANOVA was conducted to compare the differences in freedom score for the three regions. 
 There was no significant difference in freedom score between the three regions ( p = 0.8), but Asia had two outlier countries that had a significantly lower freedom score than the rest of the region. 
-    
+
+
+<img width="630" alt="Screen Shot 2020-10-28 at 4 07 42 PM" src="https://user-images.githubusercontent.com/69160361/97501984-da390e00-1937-11eb-8c97-12663432a110.png">
+
+
 #### Total Happiness Score by Region
 An ANOVA was conducted to compare the differences in happiness score for the three regions. 
 There was a significant difference in happiness (p = 0.04) where Europe and South America had a higher median happiness score than Asia. All three regions had two outlier countries that were significantly less happy than the other countries in their regions.
 
+<img width="627" alt="Screen Shot 2020-10-28 at 4 07 58 PM" src="https://user-images.githubusercontent.com/69160361/97502012-e624d000-1937-11eb-9993-936825fd9363.png">
+
+
 #### Total Protests vs Happiness Score
 A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries happiness score.
+
+<img width="432" alt="Screen Shot 2020-10-28 at 4 08 18 PM" src="https://user-images.githubusercontent.com/69160361/97502036-f472ec00-1937-11eb-9caa-d5fb9913b9a6.png">
 
 
 #### Total Protests vs Freedom Score 
 A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries freedom score.
+
+<img width="427" alt="Screen Shot 2020-10-28 at 4 08 09 PM" src="https://user-images.githubusercontent.com/69160361/97502070-ff2d8100-1937-11eb-8ce9-8d46c8dc2b00.png">
+
+### Heatmap of Protests
 
 ***Add heatmap
 
