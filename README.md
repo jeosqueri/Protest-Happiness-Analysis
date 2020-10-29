@@ -74,7 +74,7 @@ https://www.kaggle.com/mathurinache/world-happiness-report
 
 #### Total Freedom Rate by Region
 An ANOVA was conducted to compare the differences in freedom score for the three regions. 
-There was no significant difference in freedom score between the three regions ( p = 0.8), but Asia had two outlier countries that had a significantly lower freedom score than the rest of the region. 
+There was no significant difference in freedom score between the three regions (p = 0.9), but Asia had two outlier countries that had a significantly lower freedom score than the rest of the region. 
 
 
 <img width="630" alt="Screen Shot 2020-10-28 at 4 07 42 PM" src="https://user-images.githubusercontent.com/69160361/97501984-da390e00-1937-11eb-8c97-12663432a110.png">
@@ -82,7 +82,7 @@ There was no significant difference in freedom score between the three regions (
 
 #### Total Happiness Score by Region
 An ANOVA was conducted to compare the differences in happiness score for the three regions. 
-There was a significant difference in happiness (p = 0.04) where Europe and South America had a higher median happiness score than Asia. All three regions had two outlier countries that were significantly less happy than the other countries in their regions.
+There was a significant difference in happiness (p = 0.01) where Europe and South America had a higher median happiness score than Asia. All three regions had two outlier countries that were significantly less happy than the other countries in their regions.
 
 <img width="627" alt="Screen Shot 2020-10-28 at 4 07 58 PM" src="https://user-images.githubusercontent.com/69160361/97502012-e624d000-1937-11eb-9993-936825fd9363.png">
 
