@@ -15,6 +15,14 @@
 1) There will be regional differences in protest size, amount of protests occuring, and the reason behind the protests.
 2) If there are a large amount of protests in a country, then the country will have lower happiness and freedom scores.
 
+### Datasets
+
+- Protest Data: Sourced from Mass Mobilization Protest Data, Harvard Dataverse
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HTTWYL
+
+- Happiness Data: Sourced from World Happiness Report
+https://www.kaggle.com/mathurinache/world-happiness-report
+
 ### Research Questions
 - Protest Count: How many total protests occurred per region? How does this differ between the regions and countries?
 
@@ -45,13 +53,15 @@
 
 #### Protest Size
 - Most of Asias protests were smaller
-- For all three regions, a general observation is that most protests were either smaller (50-200) or very large
+- For all three regions, a general observation is that most protests were either smaller (50-200) or very large (2000-10000+)
 
 <img width="463" alt="Screen Shot 2020-10-28 at 4 05 52 PM" src="https://user-images.githubusercontent.com/69160361/97501783-829aa280-1937-11eb-91b6-df3d4028a82e.png">
 
 
 #### Protest Type
 - For each of the three regions, the most common reason for protests was political behavior.
+- The second two most common reasons were land farm issues, and police brutality.
+- Even though the regions had a very different amount of protests occuring, the protester demands were largely the same across all three regions.
 
 <img width="435" alt="Screen Shot 2020-10-28 at 4 05 59 PM" src="https://user-images.githubusercontent.com/69160361/97501806-90e8be80-1937-11eb-83de-99a2b540d010.png">
 
@@ -78,19 +88,24 @@ There was a significant difference in happiness (p = 0.04) where Europe and Sout
 
 
 #### Total Protests vs Happiness Score
-A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries happiness score.
+A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries happiness score. This finding indicates that protests will occur regardless of a regions happiness score, and even if the country has a high happiness score that does not stop protests from occuring.
 
 <img width="432" alt="Screen Shot 2020-10-28 at 4 08 18 PM" src="https://user-images.githubusercontent.com/69160361/97502036-f472ec00-1937-11eb-9caa-d5fb9913b9a6.png">
 
 
 #### Total Protests vs Freedom Score 
-A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries freedom score.
+A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries freedom score. This result shows that no matter what the freedom score is (high, low), people will still protest. This finding is interesting because it shows that when people want to protest, they will- regardless of how free they believe their country to be.
 
 <img width="427" alt="Screen Shot 2020-10-28 at 4 08 09 PM" src="https://user-images.githubusercontent.com/69160361/97502070-ff2d8100-1937-11eb-8ce9-8d46c8dc2b00.png">
 
 ### Heatmap of Protests
 
-***Add heatmap
+![Picture1](https://user-images.githubusercontent.com/69160361/97518502-ec797300-195c-11eb-94b2-443f0fc18475.png)
+
+![Picture2](https://user-images.githubusercontent.com/69160361/97518532-f9966200-195c-11eb-9050-77998209290c.png)
+
+![Picture3](https://user-images.githubusercontent.com/69160361/97518545-03b86080-195d-11eb-9960-9eb264cfe8a3.png)
+
 
 ## Limitations and Future Directions
 
