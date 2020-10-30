@@ -77,26 +77,26 @@ An ANOVA was conducted to compare the differences in freedom score for the three
 There was no significant difference in freedom score between the three regions (p = 0.9), but Asia had two outlier countries that had a significantly lower freedom score than the rest of the region. 
 
 
-<img width="630" alt="Screen Shot 2020-10-28 at 4 07 42 PM" src="https://user-images.githubusercontent.com/69160361/97501984-da390e00-1937-11eb-8c97-12663432a110.png">
+<img width="625" alt="Screen Shot 2020-10-29 at 7 40 14 PM" src="https://user-images.githubusercontent.com/69160361/97650158-b43a6900-1a1e-11eb-827f-ce1a6a2ee2da.png">
 
 
 #### Total Happiness Score by Region
 An ANOVA was conducted to compare the differences in happiness score for the three regions. 
 There was a significant difference in happiness (p = 0.01) where Europe and South America had a higher median happiness score than Asia. All three regions had two outlier countries that were significantly less happy than the other countries in their regions.
 
-<img width="627" alt="Screen Shot 2020-10-28 at 4 07 58 PM" src="https://user-images.githubusercontent.com/69160361/97502012-e624d000-1937-11eb-9993-936825fd9363.png">
+<img width="619" alt="Screen Shot 2020-10-29 at 7 40 06 PM" src="https://user-images.githubusercontent.com/69160361/97650140-a4bb2000-1a1e-11eb-9907-951805d049e8.png">
 
 
 #### Total Protests vs Happiness Score
 A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries happiness score. This finding indicates that protests will occur regardless of a regions happiness score, and even if the country has a high happiness score that does not stop protests from occuring.
 
-<img width="619" alt="Screen Shot 2020-10-29 at 7 40 06 PM" src="https://user-images.githubusercontent.com/69160361/97650140-a4bb2000-1a1e-11eb-9907-951805d049e8.png">
+<img width="432" alt="Screen Shot 2020-10-28 at 4 08 18 PM" src="https://user-images.githubusercontent.com/69160361/97650301-02e80300-1a1f-11eb-8d92-c77dcb0f2295.png">
 
 
 #### Total Protests vs Freedom Score 
 A regression analysis was conducted to examine the relationship between a countries total protests and their happiness score. There was no significant relationship between the two variables, indicating that the number of protests a country has does not have an impact on the countries freedom score. This result shows that no matter what the freedom score is (high, low), people will still protest. This finding is interesting because it shows that when people want to protest, they will- regardless of how free they believe their country to be.
 
-<img width="625" alt="Screen Shot 2020-10-29 at 7 40 14 PM" src="https://user-images.githubusercontent.com/69160361/97650158-b43a6900-1a1e-11eb-827f-ce1a6a2ee2da.png">
+<img width="427" alt="Screen Shot 2020-10-28 at 4 08 09 PM" src="https://user-images.githubusercontent.com/69160361/97650284-f794d780-1a1e-11eb-8ac6-1ccfb8c6db20.png">
 
 ### Heatmap of Protests
 
